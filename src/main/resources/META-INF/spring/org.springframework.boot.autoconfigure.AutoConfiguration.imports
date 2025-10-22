@@ -1,0 +1,2 @@
+com.foodrescue.security.autoconfig.ReactiveJwtAutoConfiguration
+com.foodrescue.security.autoconfig.OwnershipAutoConfiguration
